@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Django, Docker
 - ⚡ Fun fact: I am both a Civil and Software Engineer
 
+WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
 
 ## My current tech stack
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
