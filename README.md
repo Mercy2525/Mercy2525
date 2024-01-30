@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Moringa School Graduate (React JS, Python)
-- 🌱 I’m currently learning Django, Docker
+- 🌱 I’m currently learning TypeScript, Django, Docker
 - ⚡ Fun fact: I am both a Civil and Software Engineer
 
-WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+[![wakatime](https://wakatime.com/badge/user/48a84206-944a-4f37-8f0c-3b68cff8ca89.svg)](https://wakatime.com/@48a84206-944a-4f37-8f0c-3b68cff8ca89)
 
 
 ## My current tech stack
@@ -21,3 +21,4 @@ WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 ![Material Ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
