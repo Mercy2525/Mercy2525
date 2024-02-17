@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Moringa School Graduate (React JS, Python)
-- 🌱 I’m currently learning TypeScript, Django, Docker
+- 🌱 I’m currently learning TypeScript, GraphQL, Docker.
 - ⚡ Fun fact: I am both a Civil and Software Engineer
 - 🔭 Read my blog [here](https://hashnode.com/@MuriithiMercy)
 
