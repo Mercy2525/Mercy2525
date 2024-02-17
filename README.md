@@ -7,7 +7,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/48a84206-944a-4f37-8f0c-3b68cff8ca89.svg)](https://wakatime.com/@48a84206-944a-4f37-8f0c-3b68cff8ca89)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mercy2525&theme=react&hide_border=true&border_radius=5.3&card_width=470)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mercy2525&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## My current tech stack
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
